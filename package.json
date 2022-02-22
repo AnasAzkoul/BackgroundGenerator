@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AnasAzkoul/BackgroundGenerator/issues"
   },
-  "homepage": "https://github.com/AnasAzkoul/BackgroundGenerator#readme"
+  "homepage": "https://github.com/AnasAzkoul/BackgroundGenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
